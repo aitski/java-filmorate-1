@@ -9,4 +9,4 @@ Tools applied: Spring Boot, H2
 
 Tables structure:
 
-![Diagram](/server.png)
+![Diagram](/filmorate.png)
